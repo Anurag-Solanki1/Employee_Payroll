@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+<<<<<<< HEAD
+=======
+src/main/resources/
+>>>>>>> be39e73 (Added DTO in CRUD)
